@@ -1,0 +1,40 @@
+.logo {
+  width: 40px;
+  height: 35px;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+body {
+  background-color: #ebeff5;
+}
+
+#total-orders {
+  background-color: #4cb4c7;
+}
+
+#orders-delivered {
+  background-color: #7abecc;
+}
+
+#orders-pending {
+  background-color: #7cd1c0;
+}
+.btn-outline-info {
+  margin-bottom: 3px;
+}
+.btn-outline-info:hover {
+  color: white;
+}
+
+.btn-outline-danger:hover {
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: cornflowerblue;
+}
+
+.btn-warning {
+  color: black;
+}
